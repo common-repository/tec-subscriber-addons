@@ -1,0 +1,536 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Subscriber Addons for The Events Calendar\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-24 07:01+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: includes/admin/admin-general.php:58 includes/admin/admin-general.php:72
+msgid "** A Link will be shown below subscription form if not left empty."
+msgstr ""
+
+#: includes/admin/admin-form.php:47
+msgid ""
+"** If left empty \"Notify me about any upcomig Events\" will be printed."
+msgstr ""
+
+#: includes/admin/admin-form.php:33
+msgid "** If left empty \"Notify Me\" will be printed."
+msgstr ""
+
+#: includes/class-tecsb-email.php:132
+msgid "27 March @ 01:00 PM"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:31 includes/class-tecsb-post-type.php:32
+msgid "Add New Subscriber"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:41
+msgctxt "admin menu"
+msgid "Subscribers"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:35
+msgid "All Subscribers"
+msgstr ""
+
+#: includes/class-tecsb-frontend.php:152
+msgid "By subscribing, you agree with our "
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:128
+msgid "Categories subscribed to"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:259
+msgid "Categories updated successfully."
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:179 includes/class-tecsb-frontend.php:116
+msgid "Choose cateogire(s)"
+msgstr ""
+
+#: includes/admin/admin-email.php:72
+msgid "Confirmation Email"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:274
+msgid "Date"
+msgstr ""
+
+#: includes/admin/admin-general.php:90
+msgid "Delete setting options on uninstall"
+msgstr ""
+
+#: includes/admin/admin-general.php:41
+msgid "Display Subscription page above events page?"
+msgstr ""
+
+#: includes/admin/admin-general.php:48
+msgid "Display Subscription page below events page?"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:33
+msgid "Edit Subscriber"
+msgstr ""
+
+#: includes/admin/admin-settings.php:27
+msgid "Email"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:96
+msgid "Email Address"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:149 includes/class-tecsb-ajax.php:223
+msgid "Email address doesnot exist."
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:81
+msgid "Email address unsubscribed successfully"
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:71
+msgid "Email address verified successfully"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:50
+msgid "Email already exist."
+msgstr ""
+
+#: includes/admin/admin-email.php:56
+msgid "Email Information and Template"
+msgstr ""
+
+#: includes/admin/admin-email.php:69 includes/admin/admin-email.php:81
+#: includes/admin/admin-email.php:93 includes/admin/admin-email.php:111
+msgid "Email Preview"
+msgstr ""
+
+#: includes/admin/admin-email.php:18
+msgid "Email Settings"
+msgstr ""
+
+#: includes/admin/admin-email.php:63 includes/admin/admin-email.php:75
+#: includes/admin/admin-email.php:87 includes/admin/admin-email.php:99
+msgid "Email Subject"
+msgstr ""
+
+#: includes/admin/class-tecsb-event-metabox.php:52
+msgid "Email to Subscriber"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:120
+msgid "Email Verified"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:38 includes/class-tecsb-ajax.php:139
+msgid "Empty email field."
+msgstr ""
+
+#: includes/admin/admin-form.php:23
+msgid "Enable category selection?"
+msgstr ""
+
+#: includes/admin/admin-settings.php:17
+msgid "Event Subscriber"
+msgstr ""
+
+#: includes/class-tecsb-function.php:176
+#: includes/admin/class-tecsb-event-metabox.php:22
+#: includes/admin/class-tecsb-admin-init.php:44
+msgid "Event Subscription"
+msgstr ""
+
+#: includes/class-tecsb-function.php:26
+msgid "Event Subscription - Tecsb"
+msgstr ""
+
+#: includes/admin/class-tecsb-admin-init.php:43
+msgid "Event Subscription in The Event Calendar"
+msgstr ""
+
+#: includes/admin/admin-email.php:47
+msgid "Footer Left Note"
+msgstr ""
+
+#: includes/admin/admin-settings.php:28
+msgid "Form"
+msgstr ""
+
+#: includes/admin/admin-form.php:12
+msgid "Form Settings"
+msgstr ""
+
+#: includes/admin/admin-email.php:121
+msgid "From"
+msgstr ""
+
+#: includes/admin/admin-settings.php:26
+msgid "General"
+msgstr ""
+
+#: includes/admin/admin-general.php:14 includes/admin/admin-general.php:20
+msgid "General Settings"
+msgstr ""
+
+#: includes/admin/admin-email.php:105
+msgid "Header"
+msgstr ""
+
+#: includes/admin/admin-email.php:43
+msgid "Header / Footer Notes"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://tecsb.mywptrek.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.mywptrek.com/profile"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:181 includes/class-tecsb-frontend.php:118
+msgid "If left empty, all categories will be selected."
+msgstr ""
+
+#: includes/admin/admin-form.php:17
+msgid ""
+"If none of the category is selected, it will subscribe a subscriber to all "
+"event categories."
+msgstr ""
+
+#: includes/admin/admin-general.php:55
+msgid "Link to your Privacy Policy page"
+msgstr ""
+
+#: includes/admin/admin-general.php:69
+msgid "Link to your Terms of Use page"
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:51
+msgid "Manage Subscription"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:203
+msgid "Modify Subscription"
+msgstr ""
+
+#: includes/templates/tecsb-email-newevent.php:105
+msgid "More Info"
+msgstr ""
+
+#. Author of the plugin
+msgid "MyWpTrek"
+msgstr ""
+
+#: includes/admin/admin-email.php:14 includes/admin/admin-email.php:107
+#: includes/templates/tecsb-email-newevent.php:18
+msgid "New Event"
+msgstr ""
+
+#: includes/admin/admin-email.php:96
+msgid "New Event Email"
+msgstr ""
+
+#: includes/admin/admin-email.php:101
+msgid "New Event {event-name}"
+msgstr ""
+
+#: includes/class-tecsb-email.php:120
+msgid "New Event: {event-name}"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:34
+msgid "New Subscriber"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:38
+msgid "No Subscribers found"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:39
+msgid "No Subscribers found in Trash"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:243
+msgid "Not-Verified"
+msgstr ""
+
+#: includes/admin/admin-email.php:84
+msgid "Notification Email"
+msgstr ""
+
+#: includes/admin/admin-form.php:37
+msgid "Notify Me"
+msgstr ""
+
+#: includes/admin/admin-form.php:51
+msgid "Notify me about any upcomig Events"
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:20
+msgid "Page cannot be accessed directly."
+msgstr ""
+
+#: includes/templates/tecsb-email-verification.php:49
+msgid "Please click the link below to verify your email address."
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:29
+msgctxt "post type general name"
+msgid "Subscribers"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:30
+msgctxt "post type singular name"
+msgid "Subscriber"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:214
+msgid "Prepare for output."
+msgstr ""
+
+#: includes/class-tecsb-frontend.php:147
+msgid "Privacy Policy"
+msgstr ""
+
+#: includes/admin/admin-settings.php:50
+msgid "SAVE CHANGES"
+msgstr ""
+
+#: includes/admin/admin-general.php:27
+msgid "Save subscriber as draft?"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:37
+msgid "Search Subscribers"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:176 includes/class-tecsb-frontend.php:113
+msgid "Select Category"
+msgstr ""
+
+#: includes/admin/admin-form.php:58
+msgid "Select Form Theme"
+msgstr ""
+
+#: includes/admin/admin-email.php:34
+msgid "Sender Email"
+msgstr ""
+
+#: includes/admin/admin-email.php:28
+msgid "Sender Name"
+msgstr ""
+
+#: includes/admin/admin-email.php:24
+msgid "Sender Settings"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:248
+msgid "Some required fields are missing."
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:79 includes/class-tecsb-ajax.php:117
+msgid "Something went wrong while subscribing."
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:83
+msgid "Something went wrong while unsubscribing your email address"
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:73
+msgid "Something went wrong while verifing your email address"
+msgstr ""
+
+#: includes/admin/admin-email.php:123
+msgid "Subject"
+msgstr ""
+
+#: includes/class-tecsb-frontend.php:80
+msgid "Subscribe"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:272
+msgid "Subscribe Status"
+msgstr ""
+
+#. Description of the plugin
+msgid "Subscribe to all calendar events"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:226
+msgid "Subscribed"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:108
+msgid "Subscribed to events."
+msgstr ""
+
+#. Name of the plugin
+msgid "Subscriber Addons for The Events Calendar"
+msgstr ""
+
+#: includes/admin/class-tecsb-event-metabox.php:42
+msgid "Subscriber Notified!"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:47
+msgid "Subscribers for The Event Calendar"
+msgstr ""
+
+#: includes/admin/admin-form.php:30
+msgid "Subscription Box Header Text"
+msgstr ""
+
+#: includes/admin/admin-form.php:44
+msgid "Subscription Box Sub Header Text"
+msgstr ""
+
+#: includes/admin/admin-general.php:34
+msgid "Subscription Form"
+msgstr ""
+
+#: includes/templates/tecsb-email-confirmation.php:72
+msgid "Subscription Manager"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:70
+msgid "Subscription updated."
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:112
+msgid "Subscrition Status"
+msgstr ""
+
+#: includes/class-tecsb-frontend.php:153
+msgid "Term of Use"
+msgstr ""
+
+#: includes/templates/tecsb-email-verification.php:35
+msgid "Thank you for subscribing to our calendar"
+msgstr ""
+
+#: includes/class-tecsb-email.php:70 includes/admin/admin-email.php:77
+msgid "Thank you for subscribing to our site!"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:67
+msgid "The Event Calendar Subscriber"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:271
+msgid "Title"
+msgstr ""
+
+#: includes/admin/admin-email.php:122
+msgid "To"
+msgstr ""
+
+#: includes/templates/tecsb-email-newevent.php:125
+msgid "To manage your subscription please click here"
+msgstr ""
+
+#: includes/templates/tecsb-email-confirmation.php:50
+msgid "To manage your subscription please follow the link below."
+msgstr ""
+
+#: includes/templates/tecsb-subscription.php:44
+msgid "Type your email address"
+msgstr ""
+
+#: includes/admin/admin-general.php:83
+msgid "Uninstall Settings"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:104
+msgid "Unique Key"
+msgstr ""
+
+#: includes/class-tecsb-email.php:106
+msgid "Unsubscribe Confirmation"
+msgstr ""
+
+#: includes/class-tecsb-ajax.php:206
+msgid "Unsubscribe Me"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:227
+msgid "Unsubscribed"
+msgstr ""
+
+#: includes/admin/admin-email.php:60
+msgid "Verification Email"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:242
+msgid "Verified"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:273
+msgid "Verified Status"
+msgstr ""
+
+#: includes/templates/tecsb-email-verification.php:71
+msgid "Verify Now"
+msgstr ""
+
+#: includes/admin/admin-email.php:65
+msgid "Verify your Subscription"
+msgstr ""
+
+#: includes/class-tecsb-email.php:88
+msgid "Verify your subscription"
+msgstr ""
+
+#: includes/class-tecsb-post-type.php:36
+msgid "View Subscriber"
+msgstr ""
+
+#: includes/templates/tecsb-email-footer.php:57
+msgid "Visit Us"
+msgstr ""
+
+#: includes/class-tecsb-email.php:131
+msgid "Wonderful Day Event"
+msgstr ""
+
+#: includes/class-tecsb-email.php:98 includes/admin/admin-email.php:89
+msgid "You have a new subscriber!"
+msgstr ""
+
+#. email address.
+#: includes/templates/tecsb-email-notification.php:33
+#, php-format
+msgid "You have one new subscriber (%s) for your calendar"
+msgstr ""
+
+#. email address.
+#: includes/templates/tecsb-email-unsubscribed.php:32
+#, php-format
+msgid "Your email (%s) unsubscribed form calendar successfully."
+msgstr ""
+
+#: includes/class-tecsb-frontend.php:141
+msgid "Your email address"
+msgstr ""
+
+#: includes/templates/tecsb-email-confirmation.php:36
+msgid "Your email address has been verified."
+msgstr ""
+
+#: includes/admin/admin-email.php:13
+#: includes/templates/tecsb-email-footer.php:10
+msgid "© 2020, All rights reserved."
+msgstr ""
